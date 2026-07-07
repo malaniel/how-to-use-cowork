@@ -53,7 +53,7 @@ A good first skill captures something you do on a rhythm, or want done a consist
 
 #### Try it out
 
-1. Start a **new conversation** and give Cowork a task that should trigger your new skill - without mentioning the skill by name.
+1. Start a new task in Cowork and ask it to do something that triggers your new skill - without mentioning the skill by name.
 
 1. Watch the side panel: your skill should load on its own. Compare the result to what you'd have gotten before you built it.
 

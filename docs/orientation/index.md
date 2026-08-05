@@ -117,7 +117,7 @@ Now put it together. You'll give Cowork some context to work from, send a task, 
     If anything's unclear or missing, ask me one focused question before you start.
     ```
 
-1. Send the prompt by hitting the white circle with the black arrow pointing up in the bottom-right corner.
+1. Submit the prompt.
 
 1. As Cowork works, watch it **think out loud**. It shows a step-by-step progress log, the skills it loads, and the files it produces. Call out what you see:
 

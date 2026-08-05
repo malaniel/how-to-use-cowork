@@ -67,7 +67,7 @@ First, have Cowork rebuild what you accomplished. This is your baseline draft.
     If a section is thin, tell me what context I should add rather than padding it. If you are unsure whether something belongs, flag it as uncertain instead of guessing
     ```
 
-1. Send the prompt by hitting the white circle with the black arrow pointing up in the bottom-right corner.
+1. Submit the prompt.
 
 1. Cowork should come back with a draft email ready to send. Review the draft.
 

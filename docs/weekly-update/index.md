@@ -60,7 +60,7 @@ First, have Cowork rebuild what you accomplished. This is your baseline draft.
     
     Needs input - Open questions, blockers, decisions, or areas where I may want leadership input or help. If there is nothing substantive, write “n/a.”
     
-    Looking ahead - Work threads continuing or starting next week. Infer these from this week’s activity and my upcoming calendar, but do not transcribe my calendar. Only name a specific meeting or session if it represents real work I’m driving. Skip routine or recurring syncs. Flag any upcoming OOO, handoffs, or timing risks you can infer.
+    Looking ahead - Work threads continuing or starting next week. Infer these from this week’s activity and my upcoming calendar, but do not transcribe my calendar. Only name a specific meeting or session if it represents real work I’m driving. Skip routine or recurring syncs.
     
     Keep the update tight enough to skim in under one minute.
     

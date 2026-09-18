@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "AI Skill Building with Cowork",
   description:
-    "Hands-on flights for building real AI skills with Microsoft 365 Copilot Cowork.",
+    "Hands-on flights for building real AI skills with Microsoft Copilot Cowork.",
   base: "/SKL233-AI-Skill-Building-How-to-Use-Cowork/",
   cleanUrls: true,
   head: [["link", { rel: "icon", href: "/SKL233-AI-Skill-Building-How-to-Use-Cowork/CoworkIcon.png" }]],

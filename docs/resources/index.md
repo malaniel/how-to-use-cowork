@@ -1,5 +1,5 @@
 ---
-description: Official docs and guides to go deeper with Microsoft 365 Copilot Cowork after the flights.
+description: Official docs and guides to go deeper with Microsoft Copilot Cowork after the flights.
 outline: false
 ---
 
@@ -37,7 +37,7 @@ outline: false
       <span class="resource-link-meta">Microsoft · Downloadable guide</span>
     </a>
     <a class="resource-link" href="https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-licensing" target="_blank" rel="noreferrer">
-      <span class="resource-link-title">License options for Microsoft 365 Copilot</span>
+      <span class="resource-link-title">License options for Microsoft Copilot</span>
       <span class="resource-link-meta">Microsoft Learn · Licensing</span>
     </a>
   </div>

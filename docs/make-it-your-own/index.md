@@ -40,7 +40,7 @@ A good first skill captures something you do on a rhythm, or want done a consist
 
 #### Build it
 
-1. Open [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/) and select **Cowork**. In the navigation pane, select **Customize**, open the **Skills** tab, and select **Add**.
+1. Open [Microsoft Copilot](https://m365.cloud.microsoft/chat/) and select **Cowork**. In the navigation pane, select **Customize**, open the **Skills** tab, and select **Add**.
 
     ![Copilot Cowork Skills page with the Add button](./assets/add-skill.png)
 
@@ -93,7 +93,7 @@ Think about something you'd normally break into several separate prompts (or do 
 
 #### Hand it off
 
-1. Open [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/), select **Cowork**, and start a **New task**.
+1. Open [Microsoft Copilot](https://m365.cloud.microsoft/chat/), select **Cowork**, and start a **New task**.
 
 1. Give Cowork the context it needs. Use **+** → **Add work context** to point it at the relevant emails, Teams threads, meetings, or files, or attach a file directly. You can also paste in links to documents, SharePoint pages, OneDrive files, websites - whatever Cowork needs to see to do the work.
 

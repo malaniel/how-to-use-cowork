@@ -53,15 +53,15 @@ This flight uses one source file.
 
 Before you run anything, learn where the important surfaces live.
 
-1. Open [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/)
+1. Open [Microsoft Copilot](https://m365.cloud.microsoft/chat/)
 
 1. Select **Cowork**.
 
-    ![Microsoft 365 Copilot showing Cowork highlighted in a white box](./assets/select-cowork.png)
+    ![Microsoft Copilot showing Cowork highlighted in a white box](./assets/select-cowork.png)
 
     You'll land on the Copilot Cowork homepage. From here you can type a new task in the prompt window, try one of the pre-built task samples, or pick up where you left off from the recent tasks list.
 
-    ![Microsoft 365 Copilot showing Cowork task view](./assets/task-view.png)
+    ![Microsoft Copilot showing Cowork task view](./assets/task-view.png)
 
     > [!NOTE]
     > Your Copilot Cowork homepage may look slightly different depending on when you access it.
@@ -74,7 +74,7 @@ Before you run anything, learn where the important surfaces live.
 
 1. Look at the **left navigation** under the Cowork tab. This is how you move between your work:
 
-    ![Microsoft 365 Copilot showing Cowork navigation](./assets/cowork-navigation.png)
+    ![Microsoft Copilot showing Cowork navigation](./assets/cowork-navigation.png)
 
     - **New task** - start a fresh task in a clean conversation
     - **My tasks** - return to tasks you've already run
@@ -83,7 +83,7 @@ Before you run anything, learn where the important surfaces live.
 
 1. Select **Customize** and then select the **Skills** tab. Browse through the **built-in skills**. These are the skills Cowork can draw on automatically - you don't have to call them by name. Notice skills like **html**, **Communications**, and **Documents**, which you'll see in action shortly.
 
-    ![Microsoft 365 Copilot showing Cowork skills](./assets/skills.png)
+    ![Microsoft Copilot showing Cowork skills](./assets/skills.png)
 
 > [!TIP]
 > You don't pick skills manually. Cowork loads the right ones on demand based on what you ask - you'll watch this happen in the next exercise.

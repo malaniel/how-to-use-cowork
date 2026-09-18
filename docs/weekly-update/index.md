@@ -31,7 +31,7 @@ First, have Cowork rebuild what you accomplished. This is your baseline draft.
 > [!NOTE]
 > Cowork adapts to the context it has, so it won't behave identically for everyone. Depending on what it already knows - or what permissions are already set up - it may or may not open an action window or ask a clarifying question before it runs. If your experience doesn't match the steps exactly, that's expected, not a mistake.
 
-1. Open [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/), select **Cowork**, and start a **New task**.
+1. Open [Microsoft Copilot](https://m365.cloud.microsoft/chat/), select **Cowork**, and start a **New task**.
 
     ![Copilot Cowork with the New task option selected](./assets/new-task.png)
 
@@ -90,7 +90,7 @@ Now automate it so you never assemble this update by hand again.
 
 1. You will be prompted to confirm the scheduled task details:
 
-    ![Microsoft 365 Copilot showing Cowork schedule confirmation](./assets/schedule.png)
+    ![Microsoft Copilot showing Cowork schedule confirmation](./assets/schedule.png)
 
     - **Name**: Give the schedule a name that will help you recognize it in the future, for example "Weekly Manager Update."
     - **Repeat**: Ensure it is set to **Weekly** at 8am (or whatever time you prefer).

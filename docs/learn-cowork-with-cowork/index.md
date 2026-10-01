@@ -42,7 +42,7 @@ outline: false
     <div class="skill-step-body">
       <span class="skill-step-title">Download the skill</span>
       <p>Grab the skill file using the button below. It opens in a new tab so you can save it wherever you keep your downloads.</p>
-      <a class="skill-download" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/SKILL.md" download="SKILL.md" target="_blank" rel="noreferrer">⬇️ Download the skill</a>
+      <a class="skill-download" href="/how-to-use-cowork/SKILL.md" download="SKILL.md" target="_blank" rel="noreferrer">⬇️ Download the skill</a>
     </div>
   </div>
   <div class="skill-step">

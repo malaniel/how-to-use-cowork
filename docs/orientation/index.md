@@ -47,7 +47,7 @@ This flight uses one source file.
 | `project-tracker.csv` | 25 fictional tasks across several workstreams, with columns for status, priority, percent complete, start and due dates, owner, and notes. Statuses are a mix of Completed, In Progress, Not Started, and Blocked, so the board fills out nicely. |
 
 <!-- markdownlint-disable-next-line MD033 -->
-📥 **Download flight assets:** <a href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/project-tracker.csv" download="project-tracker.csv">project-tracker.csv</a>
+📥 **Download flight assets:** <a href="/how-to-use-cowork/project-tracker.csv" download="project-tracker.csv">project-tracker.csv</a>
 
 ## Exercise 1.1 - Find Your Way Around {#exercise1-find-your-way-around}
 

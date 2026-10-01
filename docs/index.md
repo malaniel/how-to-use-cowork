@@ -56,7 +56,7 @@ Now imagine getting that finished work back, and how much of your week you'd get
 
 <!-- markdownlint-disable MD033 -->
 <div class="lab-grid">
-  <a class="lab-card" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/orientation/">
+  <a class="lab-card" href="/how-to-use-cowork/orientation/">
     <span class="lab-card-meta">
       <span class="lab-card-badge">Flight 01</span>
       <span class="lab-card-time">⏱️ 15 min</span>
@@ -66,7 +66,7 @@ Now imagine getting that finished work back, and how much of your week you'd get
     <span class="lab-card-desc">Get oriented in Copilot Cowork, find your skills, and run a discovery-first dashboard workflow.</span>
     <span class="lab-card-cta">Start flight →</span>
   </a>
-  <a class="lab-card" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/weekly-update/">
+  <a class="lab-card" href="/how-to-use-cowork/weekly-update/">
     <span class="lab-card-meta">
       <span class="lab-card-badge">Flight 02</span>
       <span class="lab-card-time">⏱️ 10 min</span>
@@ -76,7 +76,7 @@ Now imagine getting that finished work back, and how much of your week you'd get
     <span class="lab-card-desc">Have Cowork rebuild your week into a leadership update and put it on a schedule.</span>
     <span class="lab-card-cta">Start flight →</span>
   </a>
-  <a class="lab-card" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/make-it-your-own/">
+  <a class="lab-card" href="/how-to-use-cowork/make-it-your-own/">
     <span class="lab-card-meta">
       <span class="lab-card-badge">Flight 03</span>
       <span class="lab-card-time">⏱️ 10 min</span>
@@ -88,7 +88,7 @@ Now imagine getting that finished work back, and how much of your week you'd get
   </a>
 </div>
 
-<a class="bonus-card" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/learn-cowork-with-cowork/">
+<a class="bonus-card" href="/how-to-use-cowork/learn-cowork-with-cowork/">
   <span class="bonus-card-emoji">🎓</span>
   <span class="bonus-card-body">
     <span class="bonus-card-badge">Optional · take it home</span>
@@ -98,7 +98,7 @@ Now imagine getting that finished work back, and how much of your week you'd get
   <span class="bonus-card-cta">Grab the skill →</span>
 </a>
 
-<a class="resource-bubble" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/resources/">
+<a class="resource-bubble" href="/how-to-use-cowork/resources/">
   <span class="resource-bubble-icon">📚</span>
   <span class="resource-bubble-text">
     <span class="resource-bubble-title">Resources</span>
